@@ -1,8 +1,8 @@
 # Mrf Meow Café
 
-**Topic:** Coffee Shop Website — Cat Café  
-**Group:** IT-2501  
-**Published website:** ADD YOUR GITHUB PAGES OR NETLIFY LINK HERE
+**Topic:** Coffee Shop Website — Cat Café
+**Group:** IT-2501
+**Published website:** https://Abbaskhan07.github.io/midtermfront/
 
 ## Description
 
@@ -19,11 +19,9 @@ A five-page website for a fictional coffee shop with resident cats in Astana. Wa
 
 ## Technologies
 
-HTML5, CSS3 and Bootstrap 5.3.8. No JavaScript.
+HTML5, CSS3 and Bootstrap 
 
 ## Team and individual contributions
-
-Suggested allocation: confirm or update these roles to reflect each member's actual work before submission.
 
 | Member | Contribution |
 | --- | --- |
